@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Foodoclock</string>
+    <string name="title_activity_rueba">rueba</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="button">Login</string>
+    <string name="buttonRegister">join up</string>
+    <string name="Conpassword">Confirm password</string>
+    <string name="Correo">Email</string>
+    <string name="haveAccount">¿Dont have account?</string>
+    <string name="createhere">Register</string>
+    <string name="title_toolbar">Create Account</string>
+    <string name="Ilforno">Il forno</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_profile">Profile</string>
+    <string name="tab_buscar">Search</string>
+</resources>

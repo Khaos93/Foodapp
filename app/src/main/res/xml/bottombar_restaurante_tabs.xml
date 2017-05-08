@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+
+    <tab
+
+        id="@+id/info"
+        title="@string/tab_info"
+        barColorWhenSelected="@color/colorPrimary"
+        />
+
+
+    <tab
+
+        id="@+id/reservas"
+        title="@string/tab_reservas"
+        barColorWhenSelected="@color/colorPrimary"
+       />
+
+    <tab
+
+        id="@+id/coment"
+        title="@string/tab_comentarios"
+        barColorWhenSelected="@color/colorPrimary"
+        />
+</tabs>

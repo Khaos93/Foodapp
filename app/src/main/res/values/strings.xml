@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Foodoclock</string>
+    <string name="title_activity_rueba">rueba</string>
+    <string name="user_name">Nombre de Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="button">Iniciar Sesion</string>
+    <string name="buttonRegister">Unete</string>
+    <string name="Conpassword">Confirmar contraseña</string>
+    <string name="Correo">Correo</string>
+    <string name="haveAccount">¿No tienes cuenta?</string>
+    <string name="createhere">Registrarse</string>
+    <string name="title_toolbar">Crear Cuenta</string>
+    <string name="Ilforno">Il forno</string>
+    <string name="tab_home">Inicio</string>
+    <string name="tab_profile">Perfil</string>
+    <string name="tab_buscar">Buscar</string>
+    <string name="tab_info">Informacion</string>
+    <string name="tab_reservas">Reservar</string>
+    <string name="tab_comentarios">Comentarios</string>
+    <string name="home">Home</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Creps"><![CDATA[Creps & Waffles]]></string>
+    <string name="Restaurante_name"><![CDATA[Creps & Waffles]]></string>
+    <string name="distancia">1.5 km</string>
+    <string name="ubicacion">Mayorca</string>
+    <string name="tipo_comida">Parrilla</string>
+    <string name="puntaje">105 Pts</string>
+    <string name="precio_promedio">25000 $ por persona</string>
+    <string name="Tipo_pago">Tarjeta Debito</string>
+    <string name="Tipo_pago_credito">Tarjeta Debito \nBancolombia - Visa - citibank \nTarjeta Credito\nMaster card - Visa</string>
+    <string name="Tipo_restaurante">Parrilla - Carnes</string>
+    <string name="descripcion">Entre montañas y bosques naturales desde donde se observa una de las mejores vista de Bogotá, se encuentra este chalet que tiene 25 años de tradición y que ofrece cocina mediterránea con carnes y pastas.  Tramonti es un lugar para no olvidar, único, romántico, ideal no sólo para almorzar o cenar, sino con el ambiente para realizar todo tipo de celebraciones, que sin duda serán memorables.  Algunas de las entradas frías, son tonno sardegna, selezione di antipasti,  carpaccio di manzo, carpaccio di salmone e tonno, selezione di tapas di spagna,  trio di ceviche. como entradas calientes hay calamari fritti e tapenade, funghi all´aglio,  crostino di gamberetti e feta, cuore di palma con gamberetti e curry, entre otras. Las oferta de ensaladas contiene insalata vito d´asio, insalata greca, insalata dell´ angello, insalata montana, entre otras</string>
+    <string name="barra">Barra</string>
+    <string name="acceso">acceso para discapacitados</string>
+    <string name="wifi">wifi</string>
+</resources>

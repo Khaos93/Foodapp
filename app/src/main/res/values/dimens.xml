@@ -1,0 +1,21 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="edit_text">22sp</dimen>
+    <dimen name="textsize_donthaveaccount">16sp</dimen>
+    <dimen name="createhere">16sp</dimen>
+    <dimen name="height_cardview">200dp</dimen>
+    <dimen name="radius_cardview">10dp</dimen>
+    <dimen name="textsize_Resname_card">20sp</dimen>
+    <dimen name="bottombar_height">70dp</dimen>
+    <dimen name="edit_text_size_login">22sp</dimen>
+    <dimen name="edit_cardview">10sp</dimen>
+    <dimen name="edit_cardview_title">200sp</dimen>
+    <dimen name="title_restaurant">20sp</dimen>
+    <dimen name="appbarlayout_height">256dp</dimen>
+    <dimen name="bottombar_restaurante_height">35dp</dimen>
+
+
+</resources>
